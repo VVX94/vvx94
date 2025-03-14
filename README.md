@@ -71,10 +71,13 @@
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vvx94&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vvx94&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=vvx94&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <!-- 添加 width 和 height 参数 -->
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vvx94&theme=xcode&bg_color=FF000000&hide_border=true&width=800&height=300" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vvx94&theme=xcode&bg_color=FF000000&color=000000&hide_border=true&width=800&height=300" />
+        <!-- 添加内联样式控制显示尺寸 -->
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=vvx94&theme=xcode&bg_color=FF000000&hide_border=true&width=800&height=300" style="max-width: 100%; height: auto;" />
       </picture>
+    </td>
   </tr>
 </table>
 
