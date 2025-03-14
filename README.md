@@ -77,7 +77,7 @@
         <!-- 仅通过 CSS 控制显示尺寸 -->
         <img 
           src="https://github-readme-activity-graph.vercel.app/graph?username=vvx94&theme=xcode&bg_color=FF000000&hide_border=true" 
-          style="width: 600px; height: auto; max-width: 100%;" 
+          style="width: 400px; height: auto; max-width: 100%;" 
         />
       </picture>
     </td>
