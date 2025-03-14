@@ -1,3 +1,4 @@
+
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
@@ -28,7 +29,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是小王同学</p>
+<p>&emsp;&emsp;嗨，你好！我是小王同学</p>
 <p>&emsp;&emsp;一个从0到1的全栈探索者&&LLM学徒，目标是让技术与业务无缝对话</p>
 <p>&emsp;&emsp;用代码连接前后端，用模型理解世界。打造能“思考”的工具。持续学习，让代码更智能。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -39,28 +40,32 @@
 
 ### 🏫 Educational Background
 
+• [北京理工大学](https://www.bit.edu.cn/) &emsp; 📌 2024-09 —— 
+
+  <p>&emsp;&emsp;• 专业：软件工程</p>
+  
+  <p>&emsp;&emsp;• 学习内容：LLM预训练与微调，RL</p>
 
 
-- [北京理工大学](https://www.bit.edu.cn/) &emsp; 📌 2024-09 —— 
+• [北京理工大学](https://www.bit.edu.cn/) &emsp; 📌 2020-09 —— 2024-06
 
-  - 专业：软件工程
-  - 学习内容：LLM预训练与微调，RL
-
-
-- [北京理工大学](https://www.bit.edu.cn/) &emsp; 📌 2020-09 —— 2024-06
-
-  - 专业：计算机科学与技术
-  - 学习内容：计算机网络，数据库，计算机原理，操作系统，数据结构与算法，前后端开发
+  <p>&emsp;&emsp;• 专业：计算机科学与技术</p>
+  
+  <p>&emsp;&emsp;• 学习内容：计算机网络，数据库，计算机原理，操作系统，数据结构与算法，前后端开发</p>
 
 
 </td></tr>
 
-<tr><td>
-
-
+</table>
 
 ### 📊 About My Github
 
+
+
+
+<!-- ########################################## 分割 ########################################## -->
+
+<div align="center">
 
 <br/>  
 
@@ -71,34 +76,26 @@
   <tr>
     <td>
       <picture>
-        <!-- 移除 URL 中的 width/height 参数 -->
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vvx94&theme=xcode&bg_color=FF000000&hide_border=true" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vvx94&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <!-- 仅通过 CSS 控制显示尺寸 -->
-        <img 
-          src="https://github-readme-activity-graph.vercel.app/graph?username=vvx94&theme=xcode&bg_color=FF000000&hide_border=true" 
-          style="width: 400px; height: auto; max-width: 100%;" 
-        />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=vvx94&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
-    </td>
   </tr>
 </table>
 
 <!-- GitHub 数据统计 -->
-<img height="135px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vvx94&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="135px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vvx94&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+<img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vvx94&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="140px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vvx94&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
 
 
 </div>
-</td></tr>
-
-<tr><td>
-
 
 <!-- ########################################## 分割 ########################################## -->
-### My Skill Set  
+## My Skill Set  
 <table><tr><td valign="top" width="33%">
+
+
 
 ### Frontend  
 <div align="center">  
@@ -142,7 +139,8 @@
 
 
 
-</td></tr>
-</table>
+
+</div>
 
 
+</div>
